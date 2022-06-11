@@ -1,0 +1,28 @@
+header {
+    text-align: center;
+}
+
+.searchSong {
+    text-align: center;
+}
+
+li{
+    list-style-type: none;
+}
+
+li:hover{
+    color: red;
+}
+
+ul {
+    padding: 0px;
+}
+
+.sortAlphabet {
+    display: flex;
+    justify-content: center;
+}
+
+h3 {
+    margin: 0px;
+}
